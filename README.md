@@ -12,6 +12,6 @@
 <hr>
 <p>make a <code>ProductFactory</code> and seed database</p>
 <p>create a <code>StoreRequestClass</code> to apply validation</p>
-<p>add a description column to the products table without modifying the main table (Liskov substitution principle)</p>
+<p>add a description column to the products table without modifying the main table (open-closed principle)</p>
 <hr>
 <p>create a new table for category and make many-to-many relationship between it and product table so update store method in ProductController</p>
